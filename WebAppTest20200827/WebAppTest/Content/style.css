@@ -1,0 +1,23 @@
+﻿
+.dropdown-menu.show {
+    background-color: #373535;
+}
+.dropdown-item {
+    color: #e5e9ec; 
+}
+.content-dataset {
+    height:415px;
+}
+#dropdown01{
+    color:#ffffff
+}
+rect[Attributes Style] {
+    width: 100%;
+    height: 100%;
+    fill: rgb(85, 85, 85);
+}
+rect[Attributes Style] {
+    width: 100%;
+    height: 100%;
+    fill: rgb(85, 85, 85);
+}
